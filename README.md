@@ -1,5 +1,5 @@
 <p align="center" hight=> <img align="center" hight="" alt="coding" widht="500" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" /> </p>
-<h1 align="center">नमस्ते! 🙏 </h1>
+<h1 align="center">🙏 नमस्ते! 🙏 </h1>
 <h1 align="center">Hi 👋, I'm Ravi Shekhar Singh</h1>
 <h3 align="center">A passionate Full Stack Java developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" />
