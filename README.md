@@ -1,5 +1,5 @@
-<p align="center" hight=> <img align="center" hight="" alt="coding" widht="500" src="![image](https://github.com/rks-singh/rks-singh/assets/72653726/1c16679f-6288-4330-97d8-09d27abbf6a4)
- /> </p>
+![image](https://github.com/rks-singh/rks-singh/assets/72653726/9aff10dc-a1e3-4865-ad36-00573b4bd13e)
+
 <h1 align="center">🙏 नमस्ते! 🙏 </h1>
 <h1 align="center">Hi 👋, I'm Ravi Shekhar Singh</h1>
 <h3 align="center">A passionate Full Stack Java developer</h3>
