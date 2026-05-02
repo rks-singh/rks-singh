@@ -58,15 +58,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="165"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rks-singh&theme=tokyonight&hide_border=true"/>
