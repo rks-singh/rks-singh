@@ -20,17 +20,19 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ravi-shekhar-singh-33123619b" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+
+<a href="https://linkedin.com/in/ravi-shekhar-singh-33123619b">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/" target="blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<a href="https://leetcode.com/ravi-shekhar-singh/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/ravishekharsingh" target="blank">
-<img src="https://img.icons8.com/color/48/GeeksforGeeks.png" height="40"/>
+<a href="https://auth.geeksforgeeks.org/user/ravishekharsingh">
+<img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="45"/>
 </a>
+
 </p>
 
 ---
@@ -57,15 +59,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rks-singh&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=rks-singh&theme=tokyonight"/>
 </p>
 
 ---
