@@ -25,12 +25,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="https://leetcode.com/ravi-shekhar-singh/">
+<a href="https://leetcode.com/u/ravishekharsingh/">
 <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/ravishekharsingh">
-<img src="https://img.icons8.com/color/48/geeksforgeeks.png" height="45"/>
+<a href="https://www.hackerrank.com/profile/ravishekharsing5">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" height="45"/>
 </a>
 
 </p>
@@ -59,12 +59,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=rks-singh&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=rks-singh&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
