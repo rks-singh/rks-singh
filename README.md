@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Shekhar Singh</h1>
-<h3 align="center">🚀 Full Stack Java Developer | Backend Enthusiast | Microservices Learner</h3>
+<h3 align="center">🚀  Java Backend Developer | Backend Enthusiast | Microservices Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rks-singh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -12,7 +12,6 @@
 - 💻 Full Stack Developer focused on **Java Backend Development**
 - 🌱 Currently learning **Spring Boot, Microservices, System Design**
 - ⚡ Passionate about **Scalable Backend Systems**
-- 🎯 Preparing for **SDE-1 Backend Roles**
 - 💬 Ask me about **Java, Spring Boot, APIs, Microservices, Angular**
 - 📫 Reach me at **ravishekharsingh135@gmail.com**
 
@@ -45,7 +44,7 @@
 
 ### 🌐 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,bootstrap" />
 </p>
 
 ### ☁️ DevOps & Tools
@@ -76,7 +75,7 @@
 ✅ Java Backend Development  
 ✅ Microservices Architecture  
 ✅ Data Structures & Algorithms  
-✅ System Design Fundamentals  
+✅ System Design   
 ✅ Cloud & DevOps Learning  
 
 ---
