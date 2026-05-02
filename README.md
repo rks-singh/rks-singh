@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Full Stack Developer focused on **Java Backend Development**
+- 💻 Focused on **Java Backend Development**
 - 🌱 Currently learning **Spring Boot, Microservices, System Design**
 - ⚡ Passionate about **Scalable Backend Systems**
 - 💬 Ask me about **Java, Spring Boot, APIs, Microservices, Angular**
