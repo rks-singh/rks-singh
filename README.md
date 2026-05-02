@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://leetcode.com/u/ravishekharsingh/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/ravishekharsing5">
@@ -59,8 +59,13 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="165"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=rks-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rks-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
