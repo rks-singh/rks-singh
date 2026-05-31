@@ -12,7 +12,7 @@
 - 💻 Focused on **Java Backend Development**
 - 🌱 Currently learning **Spring Boot, Microservices, System Design**
 - ⚡ Passionate about **Scalable Backend Systems**
-- 💬 Ask me about **Java, Spring Boot, APIs, Microservices, Angular**
+- 💬 Ask me about **Java, Spring Boot, APIs, Microservices**
 - 📫 Reach me at **ravishekharsingh135@gmail.com**
 
 ---
